@@ -1,4 +1,5 @@
-# Symmetric Key Encryption Using Image As Key [![python](https://img.shields.io/badge/Python-2.7-blue.svg?style=style=flat-square)](https://www.python.org/downloads/) [![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=style=flat-square)](https://github.com/0xcesium/Symmetric-Key-Encryption-Using-Image-As-Key/blob/master/LICENSE)
+# Symmetric Key Encryption Using Image As Key 
+[![python](https://img.shields.io/badge/Python-2.7-blue.svg?style=style=flat-square)](https://www.python.org/downloads/)  [![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=style=flat-square)](https://github.com/0xcesium/Symmetric-Key-Encryption-Using-Image-As-Key/blob/master/LICENSE)
 
 Description : Implementation of a Symmetric Key Encryption using an Image as a vector of encryption.
 
@@ -12,7 +13,7 @@ Implementation of the algorithm proposed by Mazhar Islam, Mohsin Shah and Zakir 
 
 This encryption technique cannot be defeated without the key, therefore the picture used. Please see the abstract below.
 
-## Abstract (from the white paper published under the IEEE seal in late 2015):
+## Abstract (from the white paper published under the IEEE seal late 2015):
 
 ```
 Symmetric key cryptography is a common cryptographic technique using the same key at both the transmitter and receiver side.
